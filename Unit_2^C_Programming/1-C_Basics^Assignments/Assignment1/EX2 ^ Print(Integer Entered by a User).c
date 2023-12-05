@@ -3,7 +3,7 @@
  Name        : EX2 ^ Print(Integer Entered by a User).c
  Author      : Mostafa Kamel
  Created on  : Dec 1, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX2 ^ Print(Integer Entered by a User) using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment1/EX2 ^ Print(Integer Entered by a User) using Ansi-style
  ======================================================================================================================
  */
 

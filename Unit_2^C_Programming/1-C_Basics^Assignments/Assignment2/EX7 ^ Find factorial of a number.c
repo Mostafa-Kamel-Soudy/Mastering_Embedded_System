@@ -3,7 +3,7 @@
  Name        : EX7 ^ Find factorial of a number.c
  Author      : Mostafa Kamel
  Created on  : Dec 5, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX7 ^ Find factorial of a number using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment2/EX7 ^ Find factorial of a number using Ansi-style
  ======================================================================================================================
  */
 

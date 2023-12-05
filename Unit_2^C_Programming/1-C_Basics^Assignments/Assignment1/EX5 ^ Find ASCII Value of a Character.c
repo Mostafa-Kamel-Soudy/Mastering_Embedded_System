@@ -3,7 +3,7 @@
  Name        : EX5 ^ Find ASCII Value of a Character.c
  Author      : Mostafa Kamel
  Created on  : Dec 1, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX5 ^ Find ASCII Value of a Character using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment1/EX5 ^ Find ASCII Value of a Character using Ansi-style
  ======================================================================================================================
  */
 

@@ -3,7 +3,7 @@
  Name        : EX4 ^ Check whether number is positive or negative.c
  Author      : Mostafa Kamel
  Created on  : Dec 5, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX4 ^ Check whether number is positive or negative using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment2/EX4 ^ Check whether number is positive or negative using Ansi-style
  ============================================================================================================================
  */
 

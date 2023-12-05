@@ -3,7 +3,7 @@
  Name        : EX6 ^ Calculate sum of natural numbers.c
  Author      : Mostafa Kamel
  Created on  : Dec 5, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX6 ^ Calculate sum of natural numbers using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment2/EX6 ^ Calculate sum of natural numbers using Ansi-style
  ======================================================================================================================
  */
 

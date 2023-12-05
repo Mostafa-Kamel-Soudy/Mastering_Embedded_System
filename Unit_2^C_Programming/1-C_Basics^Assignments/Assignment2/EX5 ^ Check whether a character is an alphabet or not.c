@@ -3,7 +3,7 @@
  Name        : EX5 ^ Check whether a character is an alphabet or not.c
  Author      : Mostafa Kamel
  Created on  : Dec 5, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX5 ^ Check whether a character is an alphabet or not using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment2/EX5 ^ Check whether a character is an alphabet or not using Ansi-style
  ===============================================================================================================================
  */
 

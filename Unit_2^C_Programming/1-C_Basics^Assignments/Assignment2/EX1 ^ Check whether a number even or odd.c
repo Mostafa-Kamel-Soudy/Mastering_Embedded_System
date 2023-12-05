@@ -3,7 +3,7 @@
  Name        : Check whether a number even or odd.c
  Author      : Mostafa Kamel
  Created on  : Dec 5, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/Check whether a number even or odd using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment2/Check whether a number even or odd using Ansi-style
  ======================================================================================================================
  */
 

@@ -3,7 +3,7 @@
  Name        : EX6 ^ Write Source Code to Swap Two Numbers.c
  Author      : Mostafa Kamel
  Created on  : Dec 1, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX6 ^ Write Source Code to Swap Two Numbers using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment1/EX6 ^ Write Source Code to Swap Two Numbers using Ansi-style
  ======================================================================================================================
  */
 

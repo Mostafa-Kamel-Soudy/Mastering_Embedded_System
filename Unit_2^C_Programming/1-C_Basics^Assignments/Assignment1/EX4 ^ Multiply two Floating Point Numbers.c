@@ -3,7 +3,7 @@
  Name        : EX4 ^ Multiply two Floating Point Numbers.c
  Author      : Mostafa Kamel
  Created on  : Dec 1, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX4 ^ Multiply two Floating Point Numbers using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment1/EX4 ^ Multiply two Floating Point Numbers using Ansi-style
  ======================================================================================================================
  */
 

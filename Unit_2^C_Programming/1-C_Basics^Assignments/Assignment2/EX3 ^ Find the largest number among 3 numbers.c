@@ -3,7 +3,7 @@
  Name        : EX3 ^ Find the largest number among 3 numbers.c
  Author      : Mostafa Kamel
  Created on  : Dec 5, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX3 ^ Find the largest number among 3 numbers using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment2/EX3 ^ Find the largest number among 3 numbers using Ansi-style
  =============================================================================================================================
  */
 

@@ -3,7 +3,7 @@
  Name        : EX7 ^ Write Source Code to Swap Two Numbers without temp variable.c
  Author      : Mostafa Kamel
  Created on  : Dec 1, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX7 ^ Write Source Code to Swap Two Numbers without temp variable using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment1/EX7 ^ Write Source Code to Swap Two Numbers without temp variable using Ansi-style
  ==================================================================================================================================================
  */
 

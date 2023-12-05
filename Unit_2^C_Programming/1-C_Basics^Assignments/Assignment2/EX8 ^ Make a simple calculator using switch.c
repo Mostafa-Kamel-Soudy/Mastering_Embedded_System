@@ -3,7 +3,7 @@
  Name        : EX8 ^ Make a simple calculator using switch.c
  Author      : Mostafa Kamel
  Created on  : Dec 5, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX8 ^ Make a simple calculator using switch using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment2/EX8 ^ Make a simple calculator using switch using Ansi-style
  ======================================================================================================================
  */
 

@@ -3,7 +3,7 @@
  Name        : EX1 ^ Print(Sentence).c
  Author      : Mostafa Kamel
  Created on  : Dec 1, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX1 ^ Print(Sentence) using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment1/EX1 ^ Print(Sentence) using Ansi-style
  ======================================================================================================================
  */
 

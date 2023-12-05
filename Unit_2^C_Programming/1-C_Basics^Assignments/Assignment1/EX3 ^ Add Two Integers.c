@@ -3,7 +3,7 @@
  Name        : EX3 ^ Add Two Integers.c
  Author      : Mostafa Kamel
  Created on  : Dec 1, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/EX3 ^ Add Two Integers using Ansi-style
+ Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment1/EX3 ^ Add Two Integers using Ansi-style
  ======================================================================================================================
  */
 
