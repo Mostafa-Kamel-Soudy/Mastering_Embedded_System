@@ -59,7 +59,7 @@ Access a curated repository of resources, including code snippets, documentation
 ![Academic Achievements]
 
 🏆 **Education:**
-  - Canadian International College [](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/download.png)
+  - Canadian International College ![](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/download.png)
   - Major: Electronics & Communications
   - Grade: Very Good
 
