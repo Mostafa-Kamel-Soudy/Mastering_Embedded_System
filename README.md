@@ -56,7 +56,7 @@ Access a curated repository of resources, including code snippets, documentation
 
 ## Achievements
 
-![Academic Achievements]([cic.jpg](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/cic.jpg))
+![Academic Achievements](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/ce8c101bfc5aa3e5bb527950fb3e4b0d432820f4/cic.jpg)
 
 🏆 **Education:**
   - Canadian International College 
