@@ -19,39 +19,34 @@ Embark on an immersive journey through my "Mastering Embedded Systems" repositor
 
 ### Unit 1: Diploma Prerequisites - Version Control Mastery
 
-![Git and GitHub Virtuosity](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/Git-GitHub-Mastery.jpg)
-
+![Git and GitHub Virtuosity]
 In this unit, I honed my version control expertise with Git and GitHub, becoming a virtuoso of collaboration, branching, and pull requests—laying a solid foundation for seamless project management and unwavering code integrity.
 
 ### Unit 2: C Programming - Precision in Code Crafting
 
-![C Programming Excellence](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/C-Programming-Excellence.jpg)
-
+![C Programming Excellence]
 Venturing into the fundamentals of C Programming, I refined my coding skills, emphasizing precision in algorithmic design, data types, and control structures—a cornerstone for embedded systems programming mastery.
 
 ## Repository Highlights
 
 ### 🚀 Projects
 
-![Innovative Project Showcase](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/Innovative-Project-Showcase.jpg)
-
+![Innovative Project Showcase]
 Immerse yourself in my portfolio of groundbreaking projects, showcasing a seamless fusion of creativity and technical prowess.
 
 ### 📚 Assignments
 
-![Intellectual Rigor in Assignments](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/Intellectual-Rigor-in-Assignments.jpg)
-
+![Intellectual Rigor in Assignments]
 Delve into thought-provoking assignments that reflect my unwavering commitment to intellectual rigor and skill refinement.
 
 ### 📖 Resources
 
-![Knowledge Enrichment](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/Knowledge-Enrichment.jpg)
-
+![Knowledge Enrichment]
 Access a curated repository of invaluable resources, including code snippets, documentation, and references—a treasure trove for knowledge enrichment.
 
 ## Achievements
 
-![Academic Achievements](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/Canadian-International-College-Achievement.jpg)
+![Academic Achievements](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/ce8c101bfc5aa3e5bb527950fb3e4b0d432820f4/cic.jpg)
 
 🏆 **Education:**
   - Canadian International College 
