@@ -34,7 +34,7 @@ Delve into assignments reflecting unwavering commitment to intellectual rigor an
 ### 📖 Knowledge Enrichment Resources
 Access a curated repository of invaluable resources—a treasure trove for knowledge enrichment.
 
-![Academic Achievements](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/Canadian-International-College-Achievement.jpg)
+![Academic Achievements](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/ce8c101bfc5aa3e5bb527950fb3e4b0d432820f4/cic.jpg)
 
 🏆 **Education:**
 - Canadian International College
