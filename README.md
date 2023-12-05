@@ -57,6 +57,7 @@ Access a curated repository of resources, including code snippets, documentation
 ## Achievements
 
 ![Academic Achievements](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/download.png)
+
 🏆 **Education:**
 - Canadian International College
   - Major: Electronics & Communications
