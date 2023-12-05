@@ -11,7 +11,7 @@ Greetings! I am Mostafa Ahmed Mohamed Kamel, an ambitious Electronics and Commun
 
 ## Course Overview
 
-![Embedded Systems Journey](https://drive.google.com/file/d/192duWB_k8E8Cnht-i0ArKhxZBC6o13GK/view?usp=sharing)
+![Embedded Systems Journey](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/Learn-In-Depth.jpg)
 
 Welcome to my "Mastering Embedded Systems" repository—a testament to my commitment to excellence in electronics and communications. This collection serves as a comprehensive record of my academic journey, focusing on the intricate world of embedded systems.
 
@@ -55,8 +55,8 @@ Immerse yourself in thought-provoking assignments, reflecting my commitment to i
 Access a curated repository of resources, including code snippets, documentation, and references—a valuable knowledge enrichment hub.
 
 ## Achievements
-
-![Academic Achievements](https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/download.png)
+![Academic Achievements]
+(https://github.com/Mostafa-Kamel-Soudy/Mastering_Embedded_System/blob/main/download.png)
 
 🏆 **Education:**
 - Canadian International College
