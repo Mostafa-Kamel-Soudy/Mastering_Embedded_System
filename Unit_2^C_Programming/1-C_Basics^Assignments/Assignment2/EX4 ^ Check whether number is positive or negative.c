@@ -1,9 +1,9 @@
 /*
  ===========================================================================================================================
- Name        : EX4 ^ Check whether number is positive or negative.c
+ Name        : CheckPositiveOrNegative.c
  Author      : Mostafa Kamel
  Created on  : Dec 5, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment2/EX4 ^ Check whether number is positive or negative using Ansi-style
+ Description : A C program that prompts the user to enter a number, checks if it's positive, negative, or zero, and prints the result using Ansi-style.
  ============================================================================================================================
  */
 
