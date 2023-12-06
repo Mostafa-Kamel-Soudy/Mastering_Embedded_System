@@ -1,9 +1,9 @@
 /*
  ======================================================================================================================
- Name        : EX8 ^ Make a simple calculator using switch.c
+ Name        : SimpleCalculator.c
  Author      : Mostafa Kamel
  Created on  : Dec 5, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment2/EX8 ^ Make a simple calculator using switch using Ansi-style
+ Description : A C program that prompts the user to enter an operator (+, -, *, or /) and two operands, performs the calculation using a switch statement, and prints the result using Ansi-style.
  ======================================================================================================================
  */
 
@@ -14,7 +14,7 @@ int main() {
     double operand1, operand2, result;
 
     // Input the operator from the user
-    printf("Enter operator either + or - or * or /: ");
+    printf("Enter an operator (+, -, *, or /): ");
     scanf(" %c", &operator);  // Note the space before %c to consume any previous newline character
 
     // Input two operands from the user
