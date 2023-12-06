@@ -1,23 +1,23 @@
 /*
  ======================================================================================================================
- Name        : EX6 ^ Calculate sum of natural numbers.c
+ Name        : CalculateSumOfNaturalNumbers.c
  Author      : Mostafa Kamel
  Created on  : Dec 5, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment2/EX6 ^ Calculate sum of natural numbers using Ansi-style
+ Description : A C program that prompts the user to enter a positive integer, calculates the sum of natural numbers up to that integer, and prints the result using Ansi-style.
  ======================================================================================================================
  */
 
 #include <stdio.h>
 
 int main() {
-    int n, sum = 0;
+    int userInput, sum = 0;
 
     // Input a positive integer from the user
-    printf("Enter an integer: ");
-    scanf("%d", &n);
+    printf("Enter a positive integer: ");
+    scanf("%d", &userInput);
 
-    // Calculate the sum of natural numbers up to n
-    for (int i = 1; i <= n; i++) {
+    // Calculate the sum of natural numbers up to userInput
+    for (int i = 1; i <= userInput; i++) {
         sum += i;
     }
 
