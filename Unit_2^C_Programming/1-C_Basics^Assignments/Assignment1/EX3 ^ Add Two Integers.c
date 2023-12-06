@@ -1,22 +1,26 @@
 /*
  ======================================================================================================================
- Name        : EX3 ^ Add Two Integers.c
+ Name        : AddTwoIntegers.c
  Author      : Mostafa Kamel
  Created on  : Dec 1, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment1/EX3 ^ Add Two Integers using Ansi-style
+ Description : A C program that prompts the user to enter two integers, adds them, and prints the sum using Ansi-style.
  ======================================================================================================================
  */
 
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
-	int x,y,sum;
-	printf("Enter two integers: ");
-	fflush(stdout);fflush(stdin);
-	scanf("%d %d",&x,&y);
-	sum = x+y;
-	printf("Sum: %d",sum);
-	return 0;
+int main() {
+    int firstInteger, secondInteger, sum;
+
+    printf("Enter two integers: ");
+    fflush(stdout);  // Flush the output buffer
+    fflush(stdin);   // Flush the input buffer
+    scanf("%d %d", &firstInteger, &secondInteger);
+
+    sum = firstInteger + secondInteger;
+
+    printf("Sum: %d\n", sum);
+
+    return 0;
 }
