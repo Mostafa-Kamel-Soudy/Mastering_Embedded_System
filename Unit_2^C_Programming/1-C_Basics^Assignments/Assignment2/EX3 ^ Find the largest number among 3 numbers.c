@@ -1,9 +1,9 @@
 /*
  =============================================================================================================================
- Name        : EX3 ^ Find the largest number among 3 numbers.c
+ Name        : FindLargestNumber.c
  Author      : Mostafa Kamel
  Created on  : Dec 5, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment2/EX3 ^ Find the largest number among 3 numbers using Ansi-style
+ Description : A C program that prompts the user to enter three numbers, compares them, and prints the largest one using Ansi-style.
  =============================================================================================================================
  */
 
