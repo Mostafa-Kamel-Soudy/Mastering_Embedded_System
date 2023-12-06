@@ -1,22 +1,26 @@
 /*
  ======================================================================================================================
- Name        : EX4 ^ Multiply two Floating Point Numbers.c
+ Name        : MultiplyFloatingPointNumbers.c
  Author      : Mostafa Kamel
  Created on  : Dec 1, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment1/EX4 ^ Multiply two Floating Point Numbers using Ansi-style
+ Description : A C program that prompts the user to enter two floating-point numbers, multiplies them, and prints the product using Ansi-style.
  ======================================================================================================================
  */
 
 #include <stdio.h>
 #include <stdlib.h>
 
-int main()
-{
-	float x,y,mul;
-	printf("Enter two integers: ");
-	fflush(stdout);fflush(stdin);
-	scanf("%f %f",&x,&y);
-	mul = x*y;
-	printf("Product: %f",mul);
-	return 0;
+int main() {
+    float firstNumber, secondNumber, product;
+
+    printf("Enter two floating-point numbers: ");
+    fflush(stdout);  // Flush the output buffer
+    fflush(stdin);   // Flush the input buffer
+    scanf("%f %f", &firstNumber, &secondNumber);
+
+    product = firstNumber * secondNumber;
+
+    printf("Product: %f\n", product);
+
+    return 0;
 }
