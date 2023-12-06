@@ -1,9 +1,9 @@
 /*
  ======================================================================================================================
- Name        : EX7 ^ Find factorial of a number.c
+ Name        : FindFactorialOfNumber.c
  Author      : Mostafa Kamel
  Created on  : Dec 5, 2023
- Description : Unit_2_C^Programming/C_Basics^Assignments/Assignment2/EX7 ^ Find factorial of a number using Ansi-style
+ Description : A C program that prompts the user to enter an integer, calculates and prints the factorial using Ansi-style.
  ======================================================================================================================
  */
 
@@ -12,18 +12,18 @@
 long long factorial(int n);
 
 int main() {
-    int num;
+    int userInput;
 
     // Input an integer from the user
     printf("Enter an integer: ");
-    scanf("%d", &num);
+    scanf("%d", &userInput);
 
     // Check if the number is non-negative
-    if (num < 0) {
-        printf("Error !!! Factorial of a negative number doesn't exist.\n");
+    if (userInput < 0) {
+        printf("Error: Factorial of a negative number doesn't exist.\n");
     } else {
         // Calculate and display the factorial
-        printf("Factorial = %lld\n", factorial(num));
+        printf("Factorial = %lld\n", factorial(userInput));
     }
 
     return 0;
